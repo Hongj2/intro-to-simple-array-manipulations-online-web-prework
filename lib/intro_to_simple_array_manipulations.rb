@@ -36,5 +36,4 @@ end
 
 def using_flatten (array)
   array.flatten
-  return array.to_s
 end
